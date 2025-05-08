@@ -31,5 +31,17 @@
         "amount": 90.0,
         "timestamp": "2025-05-08 23:51:28.726180",
         "staff_username": "hello"
+    },
+    {
+        "customer_id": "5",
+        "amount": 100000000.0,
+        "timestamp": "2025-05-09 00:16:04.939949",
+        "staff_username": "hehehe"
+    },
+    {
+        "customer_id": "5",
+        "amount": 7000.0,
+        "timestamp": "2025-05-09 00:16:26.569306",
+        "staff_username": "hehehe"
     }
 ]
