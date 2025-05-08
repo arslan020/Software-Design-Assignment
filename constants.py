@@ -1,0 +1,6 @@
+CUSTOMERS_FILE = "customers.json"
+TRANSACTIONS_FILE = "transactions.json"
+AUDIT_LOG_FILE = "audit_log.json"
+CREDENTIALS_FILE = "credentials.json"
+DASHBOARD_FILE = "dashboard_data.json"
+REPORTS_DIR = "reports"

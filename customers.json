@@ -1,0 +1,66 @@
+{
+    "1": {
+        "name": "Tayab",
+        "contact": "dGF5YWIxMjNAZ21haWwuY29t",
+        "created_at": "2025-05-08 14:38:26.291967",
+        "history": [
+            {
+                "customer_id": "1",
+                "amount": 10000000.0,
+                "timestamp": "2025-05-08 15:38:39.573700"
+            },
+            {
+                "customer_id": "1",
+                "amount": 80.0,
+                "timestamp": "2025-05-08 17:47:12.178423"
+            },
+            {
+                "customer_id": "1",
+                "amount": 10.0,
+                "timestamp": "2025-05-08 22:50:13.486581"
+            }
+        ]
+    },
+    "2": {
+        "name": "ubaid",
+        "contact": "MDMwNDc3OTY4ODA=",
+        "created_at": "2025-05-08 18:16:57.839552",
+        "history": [
+            {
+                "customer_id": "2",
+                "amount": 1000.0,
+                "timestamp": "2025-05-08 23:35:50.323815",
+                "staff_username": "ali"
+            }
+        ]
+    },
+    "3": {
+        "name": "hello world",
+        "contact": "MDUyOTM1MTgzNQ==",
+        "created_at": "2025-05-08 23:50:17.346037",
+        "history": [
+            {
+                "customer_id": "3",
+                "amount": 10.0,
+                "timestamp": "2025-05-08 23:51:02.811019",
+                "staff_username": "hello"
+            },
+            {
+                "customer_id": "3",
+                "amount": 90.0,
+                "timestamp": "2025-05-08 23:51:28.726180",
+                "staff_username": "hello"
+            }
+        ],
+        "is_staff": true,
+        "username": "hello"
+    },
+    "4": {
+        "name": "Arslan",
+        "contact": "OTM0Nzg3OTE=",
+        "created_at": "2025-05-08 23:59:48.670282",
+        "history": [],
+        "is_staff": true,
+        "username": "arslan"
+    }
+}

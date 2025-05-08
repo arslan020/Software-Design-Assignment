@@ -1,0 +1,35 @@
+[
+    {
+        "customer_id": "1",
+        "amount": 10000000.0,
+        "timestamp": "2025-05-08 15:38:39.573700"
+    },
+    {
+        "customer_id": "1",
+        "amount": 80.0,
+        "timestamp": "2025-05-08 17:47:12.178423"
+    },
+    {
+        "customer_id": "1",
+        "amount": 10.0,
+        "timestamp": "2025-05-08 22:50:13.486581"
+    },
+    {
+        "customer_id": "2",
+        "amount": 1000.0,
+        "timestamp": "2025-05-08 23:35:50.323815",
+        "staff_username": "ali"
+    },
+    {
+        "customer_id": "3",
+        "amount": 10.0,
+        "timestamp": "2025-05-08 23:51:02.811019",
+        "staff_username": "hello"
+    },
+    {
+        "customer_id": "3",
+        "amount": 90.0,
+        "timestamp": "2025-05-08 23:51:28.726180",
+        "staff_username": "hello"
+    }
+]
